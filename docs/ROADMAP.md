@@ -1,4 +1,4 @@
-# Squad Ledger Development Roadmap (From Scratch)
+# CommitCircle Development Roadmap (From Scratch)
 
 ## Project Goal
 
@@ -28,7 +28,7 @@ Current habit tracker apps depend on self-reporting, which makes cheating easy.
 
 ## Proposed Solution
 
-Squad Ledger introduces:
+CommitCircle introduces:
 
 * Group accountability
 * Photo proof submission
